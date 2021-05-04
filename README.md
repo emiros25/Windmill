@@ -1,2 +1,0 @@
-# Windmill
-School project
